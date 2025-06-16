@@ -20,8 +20,8 @@ This is a simple C# console application that fetches tickets from a mock CRM sys
 1. **Clone the repository:**
 
 ```bash
-git clone <your-repo-url>
-cd <project-folder>
+git clone https://github.com/Cloudswalker/CxIntegrator
+cd CxIntegrator
 ```
 
 2. **Restore dependencies:**
